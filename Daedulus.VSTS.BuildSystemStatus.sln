@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daedulus.VSTS.BuildStatus", "Daedulus.VSTS.BuildStatus.csproj", "{380143D4-6BB8-42A1-BDC2-2EC54CDF913D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daedulus.VSTS.BuildSystemStatus", "Daedulus.VSTS.BuildSystemStatus.csproj", "{380143D4-6BB8-42A1-BDC2-2EC54CDF913D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
